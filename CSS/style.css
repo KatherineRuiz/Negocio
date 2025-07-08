@@ -51,6 +51,7 @@ nav a:hover{
     display: flex;
     justify-content: space-between;
     font-size: 25px;
+    margin-top: 20px;
     margin-left: 30px;
     font-family: "DynaPuff", system-ui;
     color: #ffffff;
@@ -66,7 +67,7 @@ nav a:hover{
 }
 
 .contenido img{
-    width: 500px;
+    width: 600px;
     margin-bottom: -10px;
 }
 .bienvenida{
